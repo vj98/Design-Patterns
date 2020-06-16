@@ -3,8 +3,8 @@ In software engineering, a software design pattern is a general, reusable soluti
 
 There are 3 main groups of patterns
 
-1. [Creational Design Patterns](https://github.com/vj98/Design-Patterns/tree/master/Creational%20Design%20Patterns)
-  * [Factory Method](https://github.com/vj98/Design-Patterns/tree/master/Creational%20Design%20Patterns/Factory%20Method)
-  * [Abstract Factory Pattern](https://github.com/vj98/Design-Patterns/tree/master/Creational%20Design%20Patterns/Abstract%20Factory%20Pattern)
-2. Structural Design Patterns
-3. Behavioral Design Patterns
+* [Creational Design Patterns](https://github.com/vj98/Design-Patterns/tree/master/Creational%20Design%20Patterns)
+   * [Factory Method](https://github.com/vj98/Design-Patterns/tree/master/Creational%20Design%20Patterns/Factory%20Method)
+  *  [Abstract Factory Pattern](https://github.com/vj98/Design-Patterns/tree/master/Creational%20Design%20Patterns/Abstract%20Factory%20Pattern)
+* Structural Design Patterns
+* Behavioral Design Patterns
