@@ -8,3 +8,11 @@ There are 3 main groups of patterns
   *  [Abstract Factory Pattern](https://github.com/vj98/Design-Patterns/tree/master/Creational%20Design%20Patterns/Abstract%20Factory%20Pattern)
 * Structural Design Patterns
 * Behavioral Design Patterns
+
+
+## References
+* https://howtodoinjava.com/
+* https://www.journaldev.com/
+* https://www.tutorialspoint.com/
+* https://refactoring.guru/
+* https://sourcemaking.com/
