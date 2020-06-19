@@ -3,4 +3,4 @@ Singleton is a creational design pattern that lets you ensure that a class has o
 
 There are two forms of singleton design pattern
 * Early Instantiation: creation of instance at load time.
-* Lazy Instantiation: creation of instance when required.obal access point to this instance.
+* Lazy Instantiation: creation of instance when required.
