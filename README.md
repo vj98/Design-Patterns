@@ -10,6 +10,7 @@ There are 3 main groups of patterns
   * [Singleton Pattern](https://github.com/vj98/Design-Patterns/tree/master/Creational%20Design%20Patterns/Singleton%20Pattern)
 * Structural Design Patterns
 * Behavioral Design Patterns
+  * [Observer Pattern](https://github.com/vj98/Design-Patterns/tree/master/Behavioral%20Design%20Pattern)
 
 
 ## References
